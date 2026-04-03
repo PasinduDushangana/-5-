@@ -1,0 +1,101 @@
+{
+  "last_updated": "2025-07-14T10:45:00",
+  "overall_scores": [
+    { "house": "Vijaya", "points": 487, "color_hex": "#f59e0b", "icon": "🔱" },
+    { "house": "Gemunu", "points": 412, "color_hex": "#3b82f6", "icon": "⚔️" },
+    { "house": "Dutugamunu", "points": 378, "color_hex": "#10b981", "icon": "🛡️" },
+    { "house": "Kavantissa", "points": 301, "color_hex": "#ef4444", "icon": "🌟" }
+  ],
+  "events": [
+    {
+      "sport_name": "100m Sprint",
+      "category": "Track",
+      "winners": [
+        { "rank": 1, "student": "Kasun Perera", "house": "Vijaya" },
+        { "rank": 2, "student": "Nimesh Silva", "house": "Gemunu" },
+        { "rank": 3, "student": "Tharindu Ranasinghe", "house": "Dutugamunu" }
+      ]
+    },
+    {
+      "sport_name": "200m Sprint",
+      "category": "Track",
+      "winners": [
+        { "rank": 1, "student": "Lahiru Bandara", "house": "Gemunu" },
+        { "rank": 2, "student": "Saman Jayawardena", "house": "Vijaya" },
+        { "rank": 3, "student": "Dinesh Kumara", "house": "Kavantissa" }
+      ]
+    },
+    {
+      "sport_name": "400m Race",
+      "category": "Track",
+      "winners": [
+        { "rank": 1, "student": "Pradeep Fernando", "house": "Dutugamunu" },
+        { "rank": 2, "student": "Ruwan Wickrama", "house": "Vijaya" },
+        { "rank": 3, "student": "Ashan Madushanka", "house": "Gemunu" }
+      ]
+    },
+    {
+      "sport_name": "4×100m Relay",
+      "category": "Track",
+      "winners": [
+        { "rank": 1, "student": "Vijaya House Team", "house": "Vijaya" },
+        { "rank": 2, "student": "Gemunu House Team", "house": "Gemunu" },
+        { "rank": 3, "student": "Kavantissa House Team", "house": "Kavantissa" }
+      ]
+    },
+    {
+      "sport_name": "High Jump",
+      "category": "Field",
+      "winners": [
+        { "rank": 1, "student": "Malith Senanayake", "house": "Gemunu" },
+        { "rank": 2, "student": "Chathura Rathnayake", "house": "Vijaya" },
+        { "rank": 3, "student": "Pasan Dissanayake", "house": "Kavantissa" }
+      ]
+    },
+    {
+      "sport_name": "Long Jump",
+      "category": "Field",
+      "winners": [
+        { "rank": 1, "student": "Nuwan Priyantha", "house": "Vijaya" },
+        { "rank": 2, "student": "Isuru Madusanka", "house": "Dutugamunu" },
+        { "rank": 3, "student": "Kavinda Rajapaksa", "house": "Gemunu" }
+      ]
+    },
+    {
+      "sport_name": "Shot Put",
+      "category": "Field",
+      "winners": [
+        { "rank": 1, "student": "Thilina Gunawardena", "house": "Kavantissa" },
+        { "rank": 2, "student": "Banushan Balasingham", "house": "Vijaya" },
+        { "rank": 3, "student": "Harsha Lakshan", "house": "Dutugamunu" }
+      ]
+    },
+    {
+      "sport_name": "Javelin Throw",
+      "category": "Field",
+      "winners": [
+        { "rank": 1, "student": "Randil Wickramasinghe", "house": "Dutugamunu" },
+        { "rank": 2, "student": "Asela Jayakody", "house": "Kavantissa" },
+        { "rank": 3, "student": "Nimal Sandaruwan", "house": "Vijaya" }
+      ]
+    },
+    {
+      "sport_name": "1500m Race",
+      "category": "Track",
+      "winners": [
+        { "rank": 1, "student": "Gayan Karunaratne", "house": "Gemunu" },
+        { "rank": 2, "student": "Udana Vithanage", "house": "Vijaya" },
+        { "rank": 3, "student": "Sachith Bandara", "house": "Dutugamunu" }
+      ]
+    },
+    {
+      "sport_name": "Triple Jump",
+      "category": "Field",
+      "winners": [
+        { "rank": 1, "student": "Ishan Cooray", "house": "Vijaya" },
+        { "rank": 2, "student": "Hasantha Rajapaksa", "house": "Kavantissa" },
+        { "rank": 3, "student": "Dilshan Wijeratne", "house": "Gemunu" }
+      ]
+    }
+  ]
+}
